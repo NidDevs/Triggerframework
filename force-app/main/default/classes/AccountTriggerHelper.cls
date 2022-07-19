@@ -9,7 +9,7 @@ public without sharing class AccountTriggerHelper {
         System.debug('Inside Task 2');
     }
     public void doTask3() {
-        System.debug('Inside Task 3');
+        System.debug('Inside Task 3, Done');
     }
     public void doTask4() {
         System.debug('Inside Task 4');
